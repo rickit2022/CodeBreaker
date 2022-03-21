@@ -134,10 +134,10 @@ public class gameBoard implements MouseListener{
             col = 4;
         }
         else if(level == 1){
-            col = 5;
+            col = 6;
         }
         else if(level ==2){
-            col = 7;
+            col = 8;
         }
     }
     /**
